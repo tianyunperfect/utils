@@ -23,7 +23,7 @@
     <!--添加scm，这个scm就是你也源代码仓库的一些信息-->
     <scm>
         <tag>master</tag>
-        <url>https://github.com/gh351135612/logger-sc.git</url>
+        <url>https://github.com/tianyunperfect/utils</url>
     </scm>
 
     <!--配置developers，根据你项目组的成员来添加-->
